@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<ns2:softwareSystem xmlns:ns2="http://www.hello2morrow.com/sonargraph/core" id="95c44dcf0d2e9d6be384f821f161fddd" version="13.2.0.820">
+	<description></description>
+	<module xmlns:ns4="http://www.hello2morrow.com/sonargraph/languageprovider/java" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ns4:xsdJavaModule" name="modulo-core-jenkins" id="859a5436828fda78725764cb5fddadc7" language="Java">
+		<description></description>
+		<rootPath name="."></rootPath>
+		<rootPath xsi:type="ns4:xsdSourceRootPath" name="./src/main/java"></rootPath>
+		<rootPath name="./target/classes"></rootPath>
+		<rootPath xsi:type="ns4:xsdSourceRootPath" name="./target/classes"></rootPath>
+	</module>
+</ns2:softwareSystem>
